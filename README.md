@@ -1,3 +1,3 @@
-# 01-Python-area-cuadrado
+# 01-Python-área-cuadrado
 Python - Challenge - Retos.
 - Aquí haremos diferentes desafios básicos de lenguaje Python.
